@@ -1,0 +1,1002 @@
+[
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "32|Female|Shortness of breath|Cough|Body ache|116|35.6|178/76|91",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "55|Male|Fatigue|Cough|Body ache|107|36.1|149/65|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "40|Female|Body ache|Sore throat|Headache|79|39.2|142/72|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "47|Male|Shortness of breath|Fever|Cough|65|36.2|122/83|90",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "31|Female|Fever|Headache|Body ache|62|37.7|115/79|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "52|Male|Fatigue|Runny nose|Fever|86|36.7|109/65|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "51|Male|Cough|Body ache|Fatigue|68|39.0|160/92|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "22|Male|Sore throat|Cough|Shortness of breath|76|35.5|142/68|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "64|Male|Sore throat|Body ache|Fever|114|36.5|164/83|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "26|Male|Shortness of breath|Sore throat|Fatigue|103|39.2|132/75|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "78|Female|Shortness of breath|Sore throat|Headache|96|36.7|137/100|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Female|Sore throat|Runny nose|Fever|104|40.0|137/100|90",
+    "output": "Pneumonia"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "19|Female|Shortness of breath|Fever|Fatigue|93|36.6|167/108|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "70|Female|Cough|Runny nose|Body ache|81|36.8|95/103|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "51|Female|Fatigue|Cough|Runny nose|69|35.6|131/99|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "18|Female|Runny nose|Cough|Shortness of breath|83|36.9|156/73|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Female|Fever|Cough|Runny nose|75|36.9|90/63|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Female|Fever|Fatigue|Headache|68|39.6|115/91|99",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "52|Female|Fever|Body ache|Fatigue|75|39.0|128/117|90",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "58|Female|Body ache|Fever|Fatigue|94|37.5|99/72|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "25|Male|Cough|Sore throat|Body ache|110|39.1|132/66|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Male|Shortness of breath|Headache|Sore throat|108|35.7|134/92|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "35|Female|Sore throat|Runny nose|Shortness of breath|109|37.5|105/63|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "19|Female|Headache|Body ache|Shortness of breath|84|37.5|120/75|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "40|Male|Sore throat|Headache|Cough|105|35.6|121/91|99",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "19|Female|Body ache|Sore throat|Fever|73|39.1|131/99|93",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "41|Female|Runny nose|Headache|Shortness of breath|84|39.6|159/76|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "26|Male|Sore throat|Cough|Runny nose|101|35.6|93/104|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "71|Male|Fatigue|Sore throat|Shortness of breath|97|37.3|105/116|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "39|Male|Shortness of breath|Headache|Fatigue|88|37.2|160/102|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Male|Cough|Sore throat|Fever|114|38.9|110/81|99",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "28|Female|Shortness of breath|Sore throat|Cough|109|36.7|109/108|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "47|Male|Fatigue|Cough|Fever|80|37.4|178/63|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "65|Female|Cough|Fatigue|Shortness of breath|65|35.7|147/82|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "61|Female|Fatigue|Body ache|Shortness of breath|77|39.1|126/117|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "30|Male|Sore throat|Headache|Runny nose|97|36.4|129/77|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "19|Female|Fatigue|Fever|Runny nose|101|39.8|100/67|91",
+    "output": "Pneumonia"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "74|Male|Body ache|Fatigue|Headache|102|37.3|97/60|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "56|Male|Fever|Fatigue|Runny nose|90|38.3|115/74|92",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "72|Male|Fever|Runny nose|Body ache|66|38.3|151/68|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "71|Male|Fatigue|Sore throat|Body ache|110|37.5|173/77|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "78|Female|Shortness of breath|Fatigue|Fever|85|38.3|105/66|97",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "42|Male|Body ache|Shortness of breath|Fatigue|114|36.5|156/108|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "46|Male|Fever|Body ache|Sore throat|85|37.9|104/60|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "45|Male|Fatigue|Runny nose|Sore throat|82|39.7|172/102|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "53|Female|Body ache|Sore throat|Headache|110|40.0|166/106|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "54|Male|Fever|Runny nose|Headache|80|37.9|171/76|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "60|Male|Body ache|Fever|Cough|112|36.2|151/70|97",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "65|Male|Fatigue|Sore throat|Fever|70|36.8|154/98|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "67|Female|Headache|Fatigue|Runny nose|99|39.3|167/65|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Female|Cough|Fatigue|Runny nose|84|36.7|130/67|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "65|Female|Shortness of breath|Headache|Cough|95|36.8|111/108|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "51|Female|Headache|Shortness of breath|Body ache|88|38.9|140/104|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "59|Male|Headache|Fatigue|Shortness of breath|82|35.6|98/76|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "39|Male|Body ache|Runny nose|Fatigue|106|37.9|129/99|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "46|Male|Fatigue|Shortness of breath|Fever|72|35.8|120/66|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "58|Female|Headache|Sore throat|Fatigue|98|39.5|155/100|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "71|Female|Runny nose|Cough|Fever|70|37.4|97/115|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "75|Male|Runny nose|Shortness of breath|Sore throat|116|36.6|161/91|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "51|Female|Body ache|Headache|Shortness of breath|114|38.9|115/72|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "75|Female|Runny nose|Fever|Sore throat|77|39.9|101/118|91",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "58|Female|Sore throat|Fever|Fatigue|80|39.5|145/98|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "34|Female|Headache|Shortness of breath|Sore throat|83|36.6|166/89|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "69|Female|Shortness of breath|Fatigue|Body ache|71|37.3|139/92|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "72|Female|Shortness of breath|Sore throat|Runny nose|90|36.5|96/101|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "42|Male|Headache|Shortness of breath|Body ache|80|35.5|138/74|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "61|Female|Fever|Headache|Sore throat|91|37.8|150/93|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "76|Male|Fatigue|Fever|Cough|94|35.6|143/115|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "62|Female|Cough|Runny nose|Body ache|92|38.9|125/103|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "26|Female|Sore throat|Headache|Body ache|66|39.6|102/88|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "19|Male|Headache|Cough|Runny nose|75|35.6|171/70|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "29|Female|Fever|Shortness of breath|Cough|96|37.7|175/66|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "78|Male|Fatigue|Headache|Fever|119|35.8|90/72|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "60|Female|Body ache|Runny nose|Headache|95|35.7|107/112|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "40|Male|Sore throat|Headache|Cough|89|37.1|122/93|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "69|Male|Cough|Headache|Runny nose|74|37.5|138/118|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "24|Female|Cough|Shortness of breath|Fever|77|36.7|157/60|90",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Female|Runny nose|Body ache|Headache|95|39.8|134/105|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "57|Male|Runny nose|Sore throat|Fatigue|74|36.7|151/91|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "68|Female|Headache|Fever|Fatigue|63|39.6|175/67|91",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "56|Female|Cough|Sore throat|Headache|67|39.1|128/73|91",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "56|Female|Shortness of breath|Cough|Fever|81|36.6|103/80|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "41|Female|Headache|Shortness of breath|Body ache|114|39.0|108/97|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "53|Male|Fever|Fatigue|Shortness of breath|113|39.2|144/79|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "47|Female|Runny nose|Fatigue|Fever|94|36.7|135/76|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "21|Female|Fever|Body ache|Headache|90|37.1|90/96|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "67|Female|Shortness of breath|Body ache|Headache|88|39.2|166/110|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "47|Male|Headache|Fever|Shortness of breath|91|36.5|142/72|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "34|Male|Fever|Headache|Fatigue|92|37.6|145/94|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "50|Male|Runny nose|Body ache|Shortness of breath|84|36.6|118/112|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "78|Female|Body ache|Sore throat|Fever|102|36.0|150/84|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "64|Female|Runny nose|Cough|Sore throat|93|38.0|158/80|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "51|Female|Fatigue|Shortness of breath|Runny nose|92|35.9|136/88|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "69|Male|Fever|Fatigue|Sore throat|103|36.1|172/107|98",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "46|Female|Runny nose|Fever|Shortness of breath|86|38.3|130/96|97",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "48|Female|Sore throat|Fever|Headache|64|36.1|106/100|97",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "27|Male|Cough|Sore throat|Fatigue|77|38.8|145/77|90",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "47|Female|Sore throat|Fatigue|Headache|108|36.2|172/111|98",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "57|Male|Shortness of breath|Headache|Runny nose|116|39.3|160/96|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "58|Female|Fever|Fatigue|Runny nose|117|36.6|169/116|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "38|Male|Shortness of breath|Headache|Fatigue|60|39.6|111/81|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "21|Male|Fatigue|Fever|Shortness of breath|70|37.5|107/72|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Male|Body ache|Fatigue|Cough|114|36.7|169/73|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "54|Male|Cough|Fever|Sore throat|103|37.4|99/114|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "65|Female|Fatigue|Body ache|Shortness of breath|76|38.9|92/101|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "24|Male|Shortness of breath|Sore throat|Headache|62|36.0|132/68|97",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "42|Female|Shortness of breath|Body ache|Sore throat|105|35.6|108/105|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Female|Fatigue|Shortness of breath|Runny nose|60|38.5|154/76|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "57|Male|Fever|Fatigue|Runny nose|84|36.9|133/68|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "18|Female|Cough|Shortness of breath|Body ache|64|38.5|174/79|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "53|Male|Runny nose|Sore throat|Fatigue|100|36.6|109/106|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "44|Female|Sore throat|Cough|Runny nose|75|37.0|101/77|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "76|Male|Headache|Shortness of breath|Body ache|98|38.6|119/78|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "46|Male|Fever|Runny nose|Headache|117|38.2|137/90|90",
+    "output": "Pneumonia"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "44|Male|Cough|Headache|Sore throat|71|36.7|128/82|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "41|Female|Sore throat|Runny nose|Fever|113|35.5|148/67|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "39|Male|Cough|Sore throat|Fatigue|69|36.4|125/74|98",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "24|Female|Sore throat|Fatigue|Fever|68|38.5|158/79|97",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "67|Female|Body ache|Headache|Shortness of breath|66|37.4|179/62|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "67|Male|Fever|Headache|Shortness of breath|76|37.5|114/82|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "79|Female|Runny nose|Body ache|Fever|108|36.0|93/81|97",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "42|Male|Cough|Sore throat|Shortness of breath|87|38.6|97/88|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "62|Male|Sore throat|Headache|Cough|85|35.8|173/98|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "44|Female|Shortness of breath|Body ache|Runny nose|77|37.9|156/67|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Female|Fatigue|Runny nose|Fever|89|38.0|143/60|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "50|Female|Cough|Fever|Sore throat|81|38.5|121/88|91",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "70|Male|Cough|Fever|Runny nose|65|36.3|115/92|91",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Male|Fatigue|Headache|Sore throat|82|37.0|163/72|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "44|Male|Runny nose|Body ache|Sore throat|64|37.8|121/83|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "76|Male|Runny nose|Fever|Cough|66|36.5|156/104|91",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "64|Female|Cough|Runny nose|Shortness of breath|95|37.9|93/65|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "61|Female|Body ache|Cough|Runny nose|89|39.2|172/100|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "40|Female|Runny nose|Body ache|Fever|119|38.2|105/69|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "66|Female|Cough|Fatigue|Headache|91|37.5|140/80|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "22|Female|Body ache|Cough|Fatigue|67|35.5|104/95|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "57|Male|Headache|Fatigue|Shortness of breath|72|39.7|148/81|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "24|Female|Fever|Headache|Runny nose|65|38.0|174/76|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "25|Female|Sore throat|Cough|Fever|79|39.6|103/70|96",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "48|Female|Fever|Runny nose|Headache|95|37.3|178/96|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "26|Male|Fever|Fatigue|Shortness of breath|75|38.1|129/116|92",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "23|Male|Cough|Headache|Body ache|93|35.9|110/94|99",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "72|Female|Shortness of breath|Fatigue|Headache|83|37.0|152/62|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "76|Female|Headache|Sore throat|Body ache|93|39.1|159/96|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "33|Male|Runny nose|Fatigue|Cough|73|39.8|139/119|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Female|Fever|Headache|Sore throat|114|39.7|131/106|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "43|Male|Runny nose|Shortness of breath|Body ache|79|39.9|154/97|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "52|Female|Cough|Shortness of breath|Fatigue|113|38.3|168/118|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "39|Male|Runny nose|Fatigue|Fever|91|39.4|177/113|93",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "53|Female|Cough|Shortness of breath|Fever|62|40.0|103/67|97",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "38|Female|Fatigue|Fever|Headache|114|38.1|153/117|99",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "22|Male|Runny nose|Sore throat|Body ache|79|38.3|154/82|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "35|Female|Body ache|Shortness of breath|Cough|105|35.8|155/113|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "70|Female|Fever|Body ache|Shortness of breath|94|36.1|136/90|95",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "30|Male|Runny nose|Cough|Body ache|85|38.9|172/94|94",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "25|Female|Cough|Headache|Shortness of breath|93|37.5|138/66|91",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "26|Female|Fever|Runny nose|Sore throat|80|37.4|150/111|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "55|Female|Headache|Fatigue|Sore throat|103|37.7|125/98|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "41|Female|Fever|Shortness of breath|Runny nose|107|39.3|139/87|99",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "41|Male|Runny nose|Fatigue|Headache|89|35.9|176/115|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "68|Male|Sore throat|Fatigue|Fever|62|39.2|116/61|98",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "63|Male|Fatigue|Body ache|Fever|87|35.6|160/78|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "69|Male|Fatigue|Runny nose|Cough|98|38.2|114/114|99",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "38|Male|Cough|Body ache|Sore throat|93|35.9|96/82|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "47|Male|Body ache|Cough|Headache|68|37.3|127/85|90",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "36|Female|Headache|Runny nose|Sore throat|81|36.5|98/96|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "50|Male|Shortness of breath|Runny nose|Fever|113|39.3|172/98|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "24|Female|Body ache|Headache|Cough|94|37.4|135/103|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "44|Female|Runny nose|Fatigue|Sore throat|70|35.8|96/72|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "19|Male|Sore throat|Shortness of breath|Fatigue|78|36.7|91/85|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "52|Female|Body ache|Headache|Fatigue|83|38.6|179/82|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "30|Female|Headache|Sore throat|Fever|115|39.7|171/89|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "63|Male|Fever|Body ache|Headache|111|35.8|174/115|90",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "62|Female|Shortness of breath|Fever|Headache|108|37.4|162/100|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "71|Male|Fatigue|Headache|Sore throat|67|38.7|110/63|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "74|Male|Fatigue|Cough|Fever|102|37.8|140/60|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "73|Male|Fever|Body ache|Fatigue|92|37.1|102/110|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "37|Male|Fever|Fatigue|Shortness of breath|118|38.1|92/103|93",
+    "output": "Pneumonia"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "57|Male|Fatigue|Headache|Sore throat|62|35.9|117/103|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "23|Male|Shortness of breath|Body ache|Headache|117|37.1|155/100|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "53|Male|Cough|Runny nose|Sore throat|74|36.0|138/74|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "50|Male|Fever|Cough|Shortness of breath|87|39.2|99/109|98",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "29|Male|Cough|Sore throat|Headache|119|38.9|128/87|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "70|Female|Fever|Runny nose|Shortness of breath|83|38.6|175/71|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "61|Female|Body ache|Sore throat|Runny nose|105|36.8|139/110|98",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "77|Female|Headache|Runny nose|Fever|117|36.3|145/100|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "25|Male|Fatigue|Sore throat|Fever|108|38.1|163/110|95",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "38|Male|Shortness of breath|Runny nose|Sore throat|79|38.1|174/112|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "25|Male|Cough|Fatigue|Fever|111|37.1|160/104|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "38|Female|Fever|Cough|Sore throat|73|38.3|131/73|98",
+    "output": "Flu"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "79|Male|Cough|Fever|Fatigue|82|37.8|179/87|96",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "50|Female|Runny nose|Headache|Fever|79|36.6|106/83|97",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "67|Male|Body ache|Runny nose|Cough|69|35.6|119/68|92",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "23|Male|Body ache|Fever|Shortness of breath|84|37.6|93/115|93",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "61|Female|Sore throat|Headache|Fever|96|35.5|167/62|96",
+    "output": "Cold"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "38|Female|Shortness of breath|Fatigue|Runny nose|119|37.5|162/78|91",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "49|Female|Body ache|Cough|Headache|86|39.1|173/101|90",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "76|Female|Headache|Runny nose|Cough|78|36.9|110/74|93",
+    "output": "Bronchitis"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "56|Female|Sore throat|Runny nose|Shortness of breath|99|36.1|117/79|94",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "24|Female|Fever|Shortness of breath|Headache|75|37.5|163/82|92",
+    "output": "Healthy"
+  },
+  {
+    "instruction": "You are a medical diagnosis assistant. Predict the diagnosis from the patient data. Choose ONE from: [Bronchitis, Cold, Flu, Healthy, Pneumonia]. Output ONLY the disease name.",
+    "input": "39|Male|Sore throat|Fever|Shortness of breath|104|39.1|92/83|91",
+    "output": "Pneumonia"
+  }
+]

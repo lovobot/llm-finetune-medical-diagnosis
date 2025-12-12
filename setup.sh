@@ -1,0 +1,10 @@
+pip install modelscope
+pip install transformers
+pip install datasets
+pip install peft
+pip install accelerate
+pip install pandas
+pip install scikit-learn
+pip install bitsandbytes
+pip install nltk
+pip install tqdm
